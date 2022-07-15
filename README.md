@@ -1,2 +1,2 @@
 # ExpenseTracker
- a React app
+A React app
